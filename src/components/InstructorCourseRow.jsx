@@ -1,5 +1,4 @@
 import React from 'react';
-import ProgramCard from './ProgramCard';
 
 export default function InstructorCourseRow() {
   return (
