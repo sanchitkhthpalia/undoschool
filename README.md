@@ -3,7 +3,7 @@
 A modern, responsive course landing page built with React and Tailwind CSS.
 
 ## 🚀 Live Demo
-[https://undoschool-sanchit.vercel.app](https://undoschool-sanchit.vercel.app)
+[https://undoschool-ten.vercel.app/](https://undoschool-ten.vercel.app/)
 
 ## ✨ Features
 - **Fully Responsive**: Optimized for Mobile, Tablet, and Desktop views.
@@ -25,7 +25,7 @@ A modern, responsive course landing page built with React and Tailwind CSS.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sanchit/undoschool.git
+   git clone https://github.com/sanchitkhthpalia/undoschool.git
    cd undoschool
    ```
 
@@ -40,7 +40,7 @@ A modern, responsive course landing page built with React and Tailwind CSS.
    ```
 
 ## 📝 Project Details
-- **Developer**: Sanchit
+- **Developer**: Sanchit Kathpalia
 - **Date**: February 20, 2026
 - **Status**: Production Ready
 
